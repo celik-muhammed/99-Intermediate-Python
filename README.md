@@ -3,6 +3,7 @@
 You will learn about Python collection types, lambda functions, generators, decorators, OOP, and much more.
 We will also build real-world projects and solve several programming challenges.[^1]
 
+00. [ ] [Go to Main Page - 00-Index-of-GitHub-Public-Projects-Repository-Logs](https://github.com/celik-muhammed/00-Index-of-GitHub-Public-Projects-Repository-Logs)
 01. [x] [01-Collection-Types](01-Collection-Types)
 02. [x] [02-Functional-Programming](02-Functional-Programming)
 03. [x] [03-OOP](03-OOP)

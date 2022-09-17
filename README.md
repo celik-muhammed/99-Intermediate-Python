@@ -1,4 +1,4 @@
-### [Go to Home Page](https://github.com/celik-muhammed)
+### [Go to Index Page](https://github.com/celik-muhammed/00-Index-of-GitHub-Public-Projects-Repository-Logs/blob/master/README.md)
 
 # 03-Intermediate-Python
 
